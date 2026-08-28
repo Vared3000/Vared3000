@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pavel 👋
+# Hi, I'm Pavel Stashkov 👋
 
 ### Frontend Developer · Intern / Junior
 
