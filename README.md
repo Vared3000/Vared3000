@@ -2,7 +2,7 @@
 
 # Hi, I'm Pavel Stashkov 👋
 
-### Frontend Developer · Intern / Junior
+### Frontend Developer ·  Junior+
 
 **React · TypeScript · JavaScript**
 
